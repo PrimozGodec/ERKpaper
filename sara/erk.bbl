@@ -1,0 +1,59 @@
+\begin{thebibliography}{1}
+
+\bibitem{ben2010user}
+Asa Ben-Hur and Jason Weston.
+\newblock A user’s guide to support vector machines.
+\newblock In {\em Data mining techniques for the life sciences}, pages
+  223--239. Springer, 2010.
+
+\bibitem{dalgleish1999handbook}
+Tim Dalgleish and Michael~J Power.
+\newblock {\em Handbook of cognition and emotion}.
+\newblock Wiley Online Library, 1999.
+
+\bibitem{eerola2010comparison}
+Tuomas Eerola and Jonna~K Vuoskoski.
+\newblock A comparison of the discrete and dimensional models of emotion in
+  music.
+\newblock {\em Psychology of Music}, 2010.
+
+\bibitem{pesek2014gathering}
+Matevz Pesek, Primoz Godec, Mojca Poredo{\v{s}}, Gregor Strle, Joze Guna,
+  Emilija Stojmenova, Matevz Pogacnik, and Matija Marolt.
+\newblock Gathering a dataset of multi-modal mood-dependent perceptual
+  responses to music.
+\newblock In {\em Proceedings of the 2nd Workshop Emotions and Personality in
+  Personalized Services (EMPIRE 2014), Aalborg, Denmark}, pages 1613--0073,
+  2014.
+
+\bibitem{schmidt2009projection}
+Erik~M Schmidt and Youngmoo~E Kim.
+\newblock Projection of acoustic features to continuous valence-arousal mood
+  labels via regression.
+\newblock In {\em 10th International Society for Music Information Retrieval
+  Conference. ISMIR}, 2009.
+
+\bibitem{schmidt2011modeling}
+Erik~M Schmidt and Youngmoo~E Kim.
+\newblock Modeling musical emotion dynamics with conditional random fields.
+\newblock In {\em ISMIR}, pages 777--782, 2011.
+
+\bibitem{schuller2010mister}
+Bj{\"o}rn Schuller, Clemens Hage, Dagmar Schuller, and Gerhard Rigoll.
+\newblock ‘mister dj, cheer me up!’: Musical and textual features for
+  automatic mood classification.
+\newblock {\em Journal of New Music Research}, 39(1):13--34, 2010.
+
+\bibitem{turnbull2008semantic}
+Douglas Turnbull, Luke Barrington, David Torres, and Gert Lanckriet.
+\newblock Semantic annotation and retrieval of music and sound effects.
+\newblock {\em Audio, Speech, and Language Processing, IEEE Transactions on},
+  16(2):467--476, 2008.
+
+\bibitem{wu2013spectral}
+Bin Wu, Simon Wun, Chung Lee, and Andrew Horner.
+\newblock Spectral correlates in emotion labeling of sustained musical
+  instrument tones.
+\newblock In {\em ISMIR}, pages 415--420, 2013.
+
+\end{thebibliography}

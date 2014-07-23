@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: erk.aux
+The style file: plain.bst
+Database file #1: erkbib.bib
+Repeated entry---line 69 of file erkbib.bib
+ : @article{eerola2010comparison
+ :                              ,
+I'm skipping whatever remains of this entry
+You've used 13 entries,
+            2118 wiz_defined-function locations,
+            570 strings with 6325 characters,
+and the built_in function-call counts, 4907 in all, are:
+= -- 476
+> -- 233
+< -- 6
++ -- 95
+- -- 78
+* -- 308
+:= -- 779
+add.period$ -- 40
+call.type$ -- 13
+change.case$ -- 76
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 210
+empty$ -- 390
+format.name$ -- 78
+if$ -- 1058
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 14
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 99
+preamble$ -- 1
+purify$ -- 64
+quote$ -- 0
+skip$ -- 164
+stack$ -- 0
+substring$ -- 281
+swap$ -- 67
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 50
+warning$ -- 0
+while$ -- 45
+width$ -- 15
+write$ -- 141
+(There was 1 error message)
