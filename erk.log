@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.22)  24 JUL 2014 14:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.22)  24 JUL 2014 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,26 +460,36 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+Overfull \hbox (6.05574pt too wide) in paragraph at lines 41--42
+\OT1/ptm/m/n/10 con-tains val-ues for 361 film mu-sic clips. The Mood Swings
+ []
+
+
+Overfull \hbox (9.77557pt too wide) in paragraph at lines 41--42
+\OT1/ptm/m/n/10 dataset are mostly ex-cerpts from pop-u-lar mu-sic. The Cal500
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 
-Overfull \hbox (3.80563pt too wide) in paragraph at lines 59--60
+Overfull \hbox (3.80563pt too wide) in paragraph at lines 58--59
 \OT1/ptm/m/n/10 with in-for-ma-tion about users' mu-sic ed-u-ca-tion, genre pre
 f-
  []
 
 
-Overfull \hbox (2.9857pt too wide) in paragraph at lines 61--62
+Overfull \hbox (2.9857pt too wide) in paragraph at lines 60--61
 []\OT1/ptm/m/n/10 Second part con-tains ques-tions about par-tic-i-pants' per-
  []
 
 
-Overfull \hbox (1.16547pt too wide) in paragraph at lines 61--62
+Overfull \hbox (1.16547pt too wide) in paragraph at lines 60--61
 \OT1/ptm/m/n/10 First, the par-tic-i-pants were asked about their cur-rent mood
 
  []
@@ -487,13 +497,13 @@ Overfull \hbox (1.16547pt too wide) in paragraph at lines 61--62
 <moodstripe.png, id=12, 866.23625pt x 340.27126pt>
 File: moodstripe.png Graphic file (type png)
  <use moodstripe.png>
-Package pdftex.def Info: moodstripe.png used on input line 69.
+Package pdftex.def Info: moodstripe.png used on input line 68.
 (pdftex.def)             Requested size: 227.62204pt x 89.41339pt.
 
 <moodgraph.png, id=13, 866.23625pt x 479.7925pt>
 File: moodgraph.png Graphic file (type png)
  <use moodgraph.png>
-Package pdftex.def Info: moodgraph.png used on input line 76.
+Package pdftex.def Info: moodgraph.png used on input line 75.
 (pdftex.def)             Requested size: 227.62204pt x 126.07553pt.
  [2 <./moodstripe.png> <./moodgraph.png>] <graphs1.png, id=17, 1706.375pt x 140
 5.25pt>
@@ -502,6 +512,11 @@ File: graphs1.png Graphic file (type png)
 <use graphs1.png>
 Package pdftex.def Info: graphs1.png used on input line 123.
 (pdftex.def)             Requested size: 227.62204pt x 187.44911pt.
+
+Overfull \hbox (1.1859pt too wide) in paragraph at lines 130--131
+\OT1/ptm/m/n/10 tained on our dataset, com-pared to the re-sults on the Mood
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 141--150
 [][]
@@ -541,7 +556,7 @@ Here is how much of TeX's memory you used:
  6222 multiletter control sequences out of 15000+600000
  18806 words of font info for 39 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,23p,1078b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,23p,1081b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/bas
 e/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
@@ -551,7 +566,7 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on erk.pdf (4 pages, 157532 bytes).
+Output written on erk.pdf (4 pages, 157602 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
