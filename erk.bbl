@@ -22,8 +22,9 @@ Juan~Pablo Bello and Jeremy Pickens.
 
 \bibitem{dalgleish1999handbook}
 Tim Dalgleish and Michael~J Power.
-\newblock {\em Handbook of cognition and emotion}.
-\newblock Wiley Online Library, 1999.
+\newblock Basic emotions.
+\newblock In {\em Handbook of cognition and emotion}. Wiley Online Library,
+  1999.
 
 \bibitem{eerola2010comparison}
 Tuomas Eerola and Jonna~K Vuoskoski.
@@ -56,6 +57,14 @@ Matevz Pesek, Primoz Godec, Mojca Poredo{\v{s}}, Gregor Strle, Joze Guna,
 \newblock In {\em Proceedings of the 2nd Workshop Emotions and Personality in
   Personalized Services (EMPIRE 2014), Aalborg, Denmark}, pages 1613--0073,
   2014.
+
+\bibitem{pesek2013chord}
+Matevz Pesek and Matija Marolt.
+\newblock Chord estimation using compositional hierarchical model.
+\newblock In {\em 6th International Workshop on Machine Learning and Music,
+  held in conjunction with the European Conference on Machine Learning and
+  Principles and Practice of Knowledge Discovery in Databases, ECML/PKDD},
+  volume 2013, 2013.
 
 \bibitem{schmidt2009projection}
 Erik~M Schmidt and Youngmoo~E Kim.
